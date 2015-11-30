@@ -7,7 +7,10 @@
 [The ankus project & License]
  * The ankus project consists of three as an open source 
  * ankus has Dual licensed under the community and commercial licenses 
- * community license is following GPL-v3.0 license 
+ * community license is following
+    - ankus-core project: apache v2
+    - ankus-web project: GPL-v3.0
+    - ankus-visualization project: apache v2
 
 [Demonstration Site]
   - http://www.openankus.org:18080
