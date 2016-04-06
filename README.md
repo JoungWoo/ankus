@@ -11,7 +11,7 @@
     - Some algorithms in Core Project do not under the OSS License
 
 [Demonstration Site]
-  - http://www.openankus.org:18080
+  - http://demo.openankus.org
 
 [Official website & E-mail]
   - www.openankus.org
